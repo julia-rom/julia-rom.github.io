@@ -28,7 +28,7 @@ ul {
 
 li {
   line-height: 1.6;
-  float: left;
+  padding-inline-start: 0px;
 }
 
 a {
