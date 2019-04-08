@@ -10,23 +10,25 @@ body {
 }
 
 h1 {
-  font-family: "Space Mono", monospace;
+  font-family: 'Space Mono', monospace;
   margin: 0px;
   font-size: 2rem;
 }
 
 p {
-  font-family: "Space Mono", monospace;
+  font-family: 'Space Mono', monospace;
   font-size: 1rem;
 }
 
 ul {
+  margin: 0px;
   list-style-type: none;
   padding-inline-start: 0px;
-  font-family: "Space Mono", monospace;
+  font-family: 'Space Mono', monospace;
 }
 
 li {
+  margin: 0px;
   line-height: 1.6;
   padding-inline-start: 0px;
 }
@@ -38,6 +40,10 @@ a {
 
 a:hover {
   color: rgb(122, 203, 168);
+}
+
+br {
+  margin: 0px;
 }
 
 #backdrop {
